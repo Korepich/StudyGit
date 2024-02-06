@@ -97,6 +97,14 @@
       "IsRequired": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "6fbffd24-d149-4aed-b6d0-f1bab3696377"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "cfcfbb53-c98e-4e83-8494-ae841c8a41f5",
+      "Name": "Index",
+      "Code": "Index",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "d131b6a3-2f61-4cf4-9ae1-d61524343a07"
     }
   ],
   "PublicStructures": [],
